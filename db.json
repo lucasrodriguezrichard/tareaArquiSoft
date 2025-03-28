@@ -1,0 +1,44 @@
+{
+  "sensoresCBA": [
+    {
+      "id": 1,
+      "tipo": "Temperatura",
+      "ubicacion": "Centro",
+      "unidad": "°C",
+      "valor_actual": 25.3,
+      "ultima_actualizacion": "2025-03-28T14:00:00Z"
+    },
+    {
+      "id": 2,
+      "tipo": "Humedad",
+      "ubicacion": "Nueva Córdoba",
+      "unidad": "%",
+      "valor_actual": 60,
+      "ultima_actualizacion": "2025-03-28T14:00:00Z"
+    },
+    {
+      "id": 3,
+      "tipo": "Presión Atmosférica",
+      "ubicacion": "Aeropuerto",
+      "unidad": "hPa",
+      "valor_actual": 1013,
+      "ultima_actualizacion": "2025-03-28T14:00:00Z"
+    },
+    {
+      "id": 4,
+      "tipo": "Velocidad del Viento",
+      "ubicacion": "Villa Belgrano",
+      "unidad": "km/h",
+      "valor_actual": 15,
+      "ultima_actualizacion": "2025-03-28T14:00:00Z"
+    },
+    {
+      "id": 5,
+      "tipo": "Índice UV",
+      "ubicacion": "Parque Sarmiento",
+      "unidad": "UV Index",
+      "valor_actual": 7,
+      "ultima_actualizacion": "2025-03-28T14:00:00Z"
+    }
+  ]
+}
